@@ -1,2 +1,2 @@
-# rspo
+# RSPO
 Randomized Smoothing Policy Optimization
